@@ -1,6 +1,4 @@
 PRODUCT_PACKAGES += \
-	HardwareOverlayPicker \
-	QtiAudio \
 	TrebleApp \
 	treble-overlay-Hisense-HLTE556N \
 	treble-overlay-NavBar \
@@ -36,6 +34,7 @@ PRODUCT_PACKAGES += \
 	treble-overlay-duoqin-qinf21pro \
 	treble-overlay-essential-ph_1 \
 	treble-overlay-fairphone-fp3 \
+	treble-overlay-freeyond-m5a \
 	treble-overlay-highpriomisc \
 	treble-overlay-hotwav-w10pro \
 	treble-overlay-htc-exodus1 \
@@ -67,6 +66,7 @@ PRODUCT_PACKAGES += \
 	treble-overlay-hw-ims \
 	treble-overlay-infinix-hot10 \
 	treble-overlay-infinix-hot30 \
+	treble-overlay-infinix-hot40i \
 	treble-overlay-infinix-hot30i-x669c \
 	treble-overlay-infinix-hot30i-x669c-systemui \
 	treble-overlay-infinix-hot60pro \
@@ -93,8 +93,8 @@ PRODUCT_PACKAGES += \
 	treble-overlay-infinix-zero6 \
 	treble-overlay-infinix-zeroxpro \
 	treble-overlay-inoi-a75 \
-	treble-overlay-lenovo-P89990JA1 \
-	treble-overlay-lenovo-P89990JA1-systemui \
+	treble-overlay-Lenovo-P89990JA1 \
+	treble-overlay-Lenovo-P89990JA1-systemui \
 	treble-overlay-lenovo-Q706F \
 	treble-overlay-lenovo-TB610FU \
 	treble-overlay-lenovo-Y70 \
